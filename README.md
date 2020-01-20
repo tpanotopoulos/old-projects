@@ -32,3 +32,10 @@ but I have included the files I think are significant that I still have access t
   Some time after we created this tool, Riot Games completely overhauled the API system for League
   of Legends, so our program no longer works, but I found it a very valuable project both from a
   personal and professional standpoint.
+
+--hw1--
+  This was for an Operating Systems course, and if I remember correctly it was an introductory
+  assignment meant to make sure we were comfortable using pointers in c. Reading through the code
+  now, I believe the assignment was to read in words from a text file and cache them in a hash
+  table.
+  
