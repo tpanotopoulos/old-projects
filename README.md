@@ -39,3 +39,15 @@ but I have included the files I think are significant that I still have access t
   now, I believe the assignment was to read in words from a text file and cache them in a hash
   table.
   
+--os--
+  This was a larger project for that same Operating Systems course. We were meant to write a
+  program that simulated several scheduling algorithms for CPU use within a computer. The
+  simulation procedurally generated process objects based on several seed values and then ran
+  until each of those processes had fully completed its CPU and I/O bursts. Afterwards it would
+  reset the state and run it again with the next algorithm, until each algorithm had been
+  simulated. It then wrote out some data about the algorithms' performance so we could compare
+  how well each scheduling method worked.
+  
+  I did not finish this project in time, so the only scheduling algorithm implemented is first come
+  first served. There are several superfluous variables and functions in the files that were meant
+  to let me expand into the other algorithms.
