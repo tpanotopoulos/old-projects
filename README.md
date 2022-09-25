@@ -5,10 +5,10 @@ This is a collection of code files from old classwork I did. I have lost many of
 but I have included the files I think are significant that I still have access to.
 
 --LoLScribe--
-  The files prefixed with "ls" are part of a project I worked on in a course called Software
-  Design and Documentation, where we went over some common software design and workflow
-  techniques. As part of the course we were divided into groups and we designed, implemented,
-  and documented a piece of software.
+  These files are part of a project I worked on in a course called Software Design and 
+  Documentation, where we went over some common software design and workflowtechniques. As 
+  part of the course we were divided into groups and we designed, implemented, and 
+  documented a piece of software.
   
   My group created a tool meant to help players of a game called League of Legends (property of
   Riot Games) collate and analyze data about their performance in the game. I was primarily
@@ -30,24 +30,5 @@ but I have included the files I think are significant that I still have access t
   another open-source library.
   
   Some time after we created this tool, Riot Games completely overhauled the API system for League
-  of Legends, so our program no longer works, but I found it a very valuable project both from a
-  personal and professional standpoint.
-
---hw1--
-  This was for an Operating Systems course, and if I remember correctly it was an introductory
-  assignment meant to make sure we were comfortable using pointers in c. Reading through the code
-  now, I believe the assignment was to read in words from a text file and cache them in a hash
-  table.
-  
---os--
-  This was a larger project for that same Operating Systems course. We were meant to write a
-  program that simulated several scheduling algorithms for CPU use within a computer. The
-  simulation procedurally generated process objects based on several seed values and then ran
-  until each of those processes had fully completed its CPU and I/O bursts. Afterwards it would
-  reset the state and run it again with the next algorithm, until each algorithm had been
-  simulated. It then wrote out some data about the algorithms' performance so we could compare
-  how well each scheduling method worked.
-  
-  I did not finish this project in time, so the only scheduling algorithm implemented is first come
-  first served. There are several superfluous variables and functions in the files that were meant
-  to let me expand into the other algorithms.
+  of Legends, so our program no longer works in its current state, but I found it a very valuable 
+  project both from a personal and professional standpoint.
