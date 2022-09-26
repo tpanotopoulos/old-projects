@@ -1,8 +1,7 @@
 # old-code
 Old projects to serve as a portfolio
 
-This is a collection of code files from old classwork I did. I have lost many of my old files,
-but I have included the files I think are significant that I still have access to.
+This is a collection of code files from old classwork.
 
 --LoLScribe--
   These files are part of a project I worked on in a course called Software Design and 
